@@ -22,6 +22,7 @@ The purpose of this election analysis was to take a .csv file full of voter data
 
 -**Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 ![Candidate Vote Results](https://github.com/Nveatch/Election_Analysis/blob/main/Resources/Results.png)
+
 -**Which candidate won the election, what was their vote count, and what was their percentage of the total votes?** Diana DeGette won the election with 272,892 votes (73.8% of total votes)
 
 ## Election Audit Summary
